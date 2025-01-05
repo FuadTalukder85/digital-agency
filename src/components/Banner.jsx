@@ -7,7 +7,7 @@ import Buttonprimary from "./ReusableBtn/Buttonprimary";
 const Banner = () => {
   return (
     <Container>
-      <main className="min-h-screen bg-white mt-48">
+      <main className="bg-white mt-48">
         <div className="">
           {/* Heading Section */}
           <motion.div
